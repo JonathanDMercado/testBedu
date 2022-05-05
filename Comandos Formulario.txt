@@ -1,0 +1,5 @@
+COMANDOS CONSOLA GIT
+mkdir (Crear carpeta)
+cd (Ingresar a carpeta)
+cd.. (Regresar a carpeta anterior)
+touch (Crear Archivo)
