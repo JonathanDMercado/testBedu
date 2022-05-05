@@ -18,3 +18,11 @@ git status (Revisar el estado del proyecto)
 
 https://github.com/JonathanDMercado/testBedu.git
 
+La ruta para actualizar mi repo es:
+git status (Verificar cambios)
+git add . (Agregar archivos)
+git status (En rojo)
+git commit -m "Comentario" (Crear commit)
+git push -u origin main (Empujar los cambios)
+git status (Validar estar actualizados)
+
