@@ -3,3 +3,18 @@ mkdir (Crear carpeta)
 cd (Ingresar a carpeta)
 cd.. (Regresar a carpeta anterior)
 touch (Crear Archivo)
+code . (Abrir VSQ)
+git config --global user.name "usuario" (Configurar usuario)
+git config --global user.email email (Configurar correo)
+git config --global -l (Verificar registro usuario)
+echo "# testBedu" >> README.md (Crear archivo README.md en el repositorio)
+git init (Inicializar nuestro repositorio)
+git add (Agrega archivos existentes a nuestro repositorio) git add .
+git commit -m "first commit" (Agrega comentario del commit que estamos creando)
+git branch -M main (Crea nueva rama en nuestro repositorio)
+git remote add origin https.... (Va a unir nuestra carpeta local con github)
+git push -u origin main (Empuja cambios de nuestra computadora local a nuestro repo)
+git status (Revisar el estado del proyecto)
+
+https://github.com/JonathanDMercado/testBedu.git
+
