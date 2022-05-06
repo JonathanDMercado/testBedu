@@ -44,6 +44,8 @@ git merge (mezclar branches)
 rm nombreArchivo (Elimina archivos)
 rmdir nombreCarpeta (Elimia Carpetas)
 
+rm -rf .git (Detener proceso y volver a iniciar / Cuando sale Reinitialized
+
 https://github.com/JonathanDMercado/OpenBEDU_0.git
 
 https://github.com/JonathanDMercado/EjemploBEDU.git
