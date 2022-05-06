@@ -28,7 +28,8 @@ git status (Validar estar actualizados)
 
 Sistemas de ramificación
 git branch (Muestra la rama Principal) Ramas crean flujo de trabajo paralelo
-git flow (Gestionar pruebas y versiones que se lanzan con usuarios
+git flow (Gestionar pruebas y versiones que se lanzan con usuarios //
+	permite asignar una funcionalidad a cada rama
 
 git branch testing (Crea rama "testing" con todos los archivos // Práctica aplicada 
 proyectos profesionales pruebas de sistemas)
