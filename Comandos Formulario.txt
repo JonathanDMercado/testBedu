@@ -26,3 +26,19 @@ git commit -m "Comentario" (Crear commit)
 git push -u origin main (Empujar los cambios)
 git status (Validar estar actualizados)
 
+Sistemas de ramificación
+git branch (Muestra la rama Principal) Ramas crean flujo de trabajo paralelo
+git flow (Gestionar pruebas y versiones que se lanzan con usuarios
+
+git branch testing (Crea rama "testing" con todos los archivos // Práctica aplicada 
+proyectos profesionales pruebas de sistemas)
+git checkout "nombreRama" (Para cambiar a la rama que queremos pasarnos)
+
+git push origin testing (Empujar cambios nueva rama creada)
+Si cambio a branch main no se visualiza gráficamente "testing"
+git merge testing Solicitar mezclar en la branch main el contenido testing)
+git push origin main (Empujar cambios)
+git merge (mezclar branches)
+
+
+
