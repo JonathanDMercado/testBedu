@@ -41,5 +41,8 @@ git merge testing Solicitar mezclar en la branch main el contenido testing)
 git push origin main (Empujar cambios)
 git merge (mezclar branches)
 
+rm nombreArchivo (Elimina archivos)
+rmdir nombreCarpeta (Elimia Carpetas)
 
+https://github.com/JonathanDMercado/OpenBEDU_0.git
 
